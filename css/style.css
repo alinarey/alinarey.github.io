@@ -86,16 +86,15 @@ margin-bottom: 10px;
 }
 .portfolio-block h3{
 color: #072b6f;
-font-size: 18px;
 font-weight: 700;
 text-transform: uppercase;
 margin-top: 0;
 }
 .portfolio-text {
+margin-top: 0;
 color: #8f8f8f;
 font-size: 14px;
 font-weight: 400;
-margin-top: 0;
 }
 .portfolio-block a{
 color: #072b6f;
